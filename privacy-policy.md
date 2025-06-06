@@ -1,5 +1,4 @@
-# Política de Privacidade - Botos Expresso
-
-Este aplicativo não coleta dados pessoais diretamente. As imagens enviadas são processadas e compartilhadas com a permissão dos usuários, exclusivamente dentro dos canais autorizados no Discord e Pinterest.
-
-Para dúvidas, entre em contato com o administrador do bot.
+# Política de Privacidade
+Este bot coleta apenas comandos enviados no Discord para buscar imagens no Pinterest. Nenhum dado pessoal é armazenado.  
+Responsável: Botos Expresso  
+Contato: guilherme.botingnon@gmail.com
