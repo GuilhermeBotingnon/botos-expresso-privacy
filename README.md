@@ -1,2 +1,0 @@
-# botos-expresso-privacy
-BOTINHO BOTINHO EXPRESO BOTYINBHO
